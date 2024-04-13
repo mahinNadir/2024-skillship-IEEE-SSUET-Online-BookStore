@@ -41,8 +41,7 @@ The frontend directory contains the client-side code built with React.js.
 
 ## Development Notes
 
-- Backend API endpoints can be accessed at `http://localhost:5000`.
+- Backend API endpoints can be accessed at `http://localhost:8000`.
 - Frontend development server runs at `http://localhost:3000`.
 - Make sure MongoDB is running and accessible. Update MongoDB connection string in `.env` file if necessary.
-- Both backend and frontend directories contain their respective README files for further details.
 
