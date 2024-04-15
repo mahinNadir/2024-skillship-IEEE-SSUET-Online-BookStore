@@ -36,6 +36,7 @@ The frontend directory contains the client-side code built with React.js.
 
 - React.js
 - React Router (for routing)
+- React Router Dom
 - Axios (for HTTP requests)
 - Material-UI (for UI components)
 
